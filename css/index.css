@@ -1,0 +1,15 @@
+/* Estilos base */
+section h2 {
+    color: rgb(6, 2, 107);
+}
+
+body {
+    background-image: url("../img/barcovela.JPEG");
+    background-size: cover;
+}
+
+header{
+    color: rgb(6, 65, 65);
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}

@@ -1,0 +1,13 @@
+/* Estilos base */
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.copyright {
+    font-size: 12px;
+}
+
+div.menu-item {
+    display: inline-block;
+    margin: 0px 30px;
+}

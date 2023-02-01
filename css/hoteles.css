@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(97, 114, 130);
+}
+
+/* estilos de header */
+header{
+    text-align: center;
+    font-size: larger;
+}
+/* estilos de main */
+main{
+    font-size: medium;
+}
+/* estilos del contenedor */
+
+.contenedor{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+}
+.Home{
+    background-color: brown;
+}
