@@ -7,6 +7,22 @@ header{
     text-align: center;
     font-size: larger;
 }
+
+@media screen and (min-width:1024px) {
+    
+    header div  {
+        transition: 3s;
+    }
+    
+        header div:hover{
+            transform: scale(0.9)
+            transition: 3sg;
+            background-color: white;
+            box-shadow: 1px 1px 1px black;
+        }
+        
+      }
+
 /* estilos de main */
 main{
     font-size: medium;
